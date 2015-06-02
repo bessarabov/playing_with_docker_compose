@@ -1,0 +1,4 @@
+a:
+  build: project_a/
+b:
+  build: project_b/
